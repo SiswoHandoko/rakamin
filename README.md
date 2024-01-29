@@ -1,2 +1,2 @@
 # rakamin
-ini repo rakamin baru
+ini repo rakamin baru lagi
