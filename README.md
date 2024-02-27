@@ -1,2 +1,2 @@
 # rakamin
-ini repo rakamin baru lagi 1
+Repo Rakamin Trainee BSI ODP 2023
